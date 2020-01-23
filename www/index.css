@@ -1,0 +1,20 @@
+.dot {
+  height: 70px;
+  width: 70px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.hidden,
+.grouphidden {
+  display: none;
+}
+
+.center{
+  text-align: center;
+}
